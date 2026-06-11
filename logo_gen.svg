@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000mm"
+   height="1000mm"
+   viewBox="0 0 1000 1000"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <g
+       id="g22"
+       transform="matrix(4.125786,0,0,4.3675329,1475.9342,-127.02214)">
+      <path
+         id="path6"
+         style="fill:#1e77be;fill-opacity:1;stroke:#f3f6ff;stroke-width:7.02915;stroke-opacity:1"
+         d="m -232.62306,37.6487 a 179.72781,149.24945 0 0 0 -91.7546,20.91501 179.72781,149.24945 0 0 0 -13.4767,56.70145 179.72781,149.24945 0 0 0 3.31815,28.19362 h 110.20619 c 9.86068,0 17.79891,7.93875 17.79891,17.79943 0,9.86068 -7.93823,17.79892 -17.79891,17.79892 h -96.07889 a 179.72781,149.24945 0 0 0 3.82199,6.28179 h 29.21734 c 9.86068,0 17.79942,7.93875 17.79942,17.79943 0,9.00015 -6.61358,16.39887 -15.26573,17.62166 a 179.72781,149.24945 0 0 0 48.29214,28.44581 179.72781,149.24945 0 0 0 48.07562,-28.26856 h -7.89254 c -9.86068,0 -17.79891,-7.93823 -17.79891,-17.79891 0,-9.86068 7.93823,-17.79943 17.79891,-17.79943 h 39.85803 a 179.72781,149.24945 0 0 0 3.82199,-6.28179 h -2.49752 c -9.86068,0 -17.79943,-7.93824 -17.79943,-17.79892 0,-9.86068 7.93875,-17.79943 17.79943,-17.79943 h 16.62482 a 179.72781,149.24945 0 0 0 3.31763,-28.19362 179.72781,149.24945 0 0 0 -15.91376,-61.39936 179.72781,149.24945 0 0 0 -81.47358,-16.2171 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:87.5168px;font-family:'Showcard Gothic';-inkscape-font-specification:'Showcard Gothic';writing-mode:lr-tb;direction:ltr;fill:#122237;fill-opacity:1;stroke:none;stroke-width:7.1736;stroke-opacity:1"
+         x="-287.77109"
+         y="117.3182"
+         id="text7"
+         transform="scale(1.0844889,0.92209334)"><tspan
+           id="tspan7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:87.5168px;font-family:'Bauhaus 93';-inkscape-font-specification:'Bauhaus 93, ';fill:#122237;fill-opacity:1;stroke:none;stroke-width:7.1736;stroke-opacity:1"
+           x="-287.77109"
+           y="117.3182">SRP</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30.5799px;font-family:Broadway;-inkscape-font-specification:'Broadway Bold';writing-mode:lr-tb;direction:ltr;fill:#122237;fill-opacity:1;stroke:none;stroke-width:2.50658;stroke-opacity:1"
+         x="-286.39014"
+         y="147.21175"
+         id="text8"
+         transform="scale(1.1329292,0.88266769)"><tspan
+           id="tspan8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.5799px;font-family:'Bauhaus 93';-inkscape-font-specification:'Bauhaus 93, ';fill:#122237;fill-opacity:1;stroke:none;stroke-width:2.50658;stroke-opacity:1"
+           x="-286.39014"
+           y="147.21175">Community</tspan></text>
+    </g>
+  </g>
+</svg>
