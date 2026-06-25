@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1000mm"
+   height="1000mm"
+   viewBox="0 0 1000 1000"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient47">
+      <stop
+         style="stop-color:#1e77be;stop-opacity:1;"
+         offset="0"
+         id="stop46" />
+      <stop
+         style="stop-color:#1e77be;stop-opacity:0.60000002;"
+         offset="1"
+         id="stop47" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient16">
+      <stop
+         style="stop-color:#122237;stop-opacity:1;"
+         offset="0"
+         id="stop16" />
+      <stop
+         style="stop-color:#1e77be;stop-opacity:1;"
+         offset="1"
+         id="stop17" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient14">
+      <stop
+         style="stop-color:#122237;stop-opacity:1;"
+         offset="0"
+         id="stop14" />
+      <stop
+         style="stop-color:#1e77be;stop-opacity:1;"
+         offset="1"
+         id="stop15" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6">
+      <stop
+         style="stop-color:#f3f6ff;stop-opacity:1;"
+         offset="0"
+         id="stop7" />
+      <stop
+         style="stop-color:#f3f6ff;stop-opacity:0;"
+         offset="1"
+         id="stop8" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient6"
+       id="linearGradient8"
+       x1="67.100258"
+       y1="500.05057"
+       x2="932.89972"
+       y2="500.05057"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(76.067723,-1223.7485)" />
+    <linearGradient
+       xlink:href="#linearGradient47"
+       id="linearGradient9"
+       x1="67.100258"
+       y1="500.05057"
+       x2="932.89972"
+       y2="500.05057"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(76.067723,-1223.7485)" />
+    <linearGradient
+       xlink:href="#linearGradient14"
+       id="linearGradient15"
+       x1="191.01778"
+       y1="240.31706"
+       x2="757.70496"
+       y2="240.31706"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(72.16723,-1289.8896)" />
+    <linearGradient
+       xlink:href="#linearGradient16"
+       id="linearGradient17"
+       x1="128.09729"
+       y1="454.4545"
+       x2="780.06293"
+       y2="454.4545"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(69.0816,-1335.2677)" />
+    <linearGradient
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="191.01778"
+       y1="240.31706"
+       x2="757.70496"
+       y2="240.31706"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(72.16723,-1289.8896)" />
+    <linearGradient
+       xlink:href="#linearGradient3"
+       id="linearGradient4"
+       x1="128.09729"
+       y1="454.4545"
+       x2="780.06293"
+       y2="454.4545"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(69.0816,-1335.2677)" />
+  </defs>
+  <g
+     id="layer1">
+    <g
+       id="g47"
+       transform="translate(-76.067705,1223.6979)">
+      <path
+         id="path3"
+         style="fill:url(#linearGradient9);fill-opacity:1;stroke:url(#linearGradient8);stroke-width:29.8383;stroke-opacity:1"
+         d="m 592.24896,-1186.3387 a 741.51848,651.85188 0 0 0 -378.55985,91.347 741.51848,651.85188 0 0 0 -55.60198,247.64544 741.51848,651.85188 0 0 0 13.68998,123.13656 h 454.68715 c 40.68306,0 73.4345,34.67275 73.4345,77.7396 0,43.06684 -32.75144,77.73737 -73.4345,77.73737 H 230.06332 a 741.51848,651.85188 0 0 0 15.76872,27.43592 h 120.54449 c 40.68306,0 73.4366,34.67275 73.4366,77.7396 0,39.30845 -27.28622,71.6226 -62.98314,76.96318 a 741.51848,651.85188 0 0 0 199.24304,124.23801 741.51848,651.85188 0 0 0 198.34972,-123.46387 h -32.56293 c -40.68306,0 -73.4345,-34.67048 -73.4345,-77.73732 0,-43.06685 32.75144,-77.7396 73.4345,-77.7396 h 164.4457 a 741.51848,651.85188 0 0 0 15.76871,-27.43592 H 911.77 c -40.68306,0 -73.43664,-34.67053 -73.43664,-77.73737 0,-43.06685 32.75358,-77.7396 73.43664,-77.7396 h 68.59045 a 741.51848,651.85188 0 0 0 13.68783,-123.13656 741.51848,651.85188 0 0 0 -65.65677,-268.16374 741.51848,651.85188 0 0 0 -336.14255,-70.8287 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:371.503px;font-family:'Showcard Gothic';-inkscape-font-specification:'Showcard Gothic';writing-mode:lr-tb;direction:ltr;fill:url(#linearGradient15);fill-opacity:1;stroke:url(#linearGradient2);stroke-width:30.4515;stroke-opacity:1"
+         x="250.84995"
+         y="-925.76849"
+         id="text4"
+         transform="scale(1.054048,0.94872342)"><tspan
+           id="tspan4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:371.503px;font-family:'Bauhaus 93';-inkscape-font-specification:'Bauhaus 93, ';fill:url(#linearGradient15);fill-opacity:1;stroke:url(#linearGradient2);stroke-width:30.4515;stroke-opacity:1"
+           x="250.84995"
+           y="-925.76849">SRP</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:129.81px;font-family:Broadway;-inkscape-font-specification:'Broadway Bold';writing-mode:lr-tb;direction:ltr;fill:url(#linearGradient17);fill-opacity:1;stroke:url(#linearGradient4);stroke-width:10.6403;stroke-opacity:1"
+         x="193.75616"
+         y="-850.23096"
+         id="text5"
+         transform="scale(1.1011286,0.90815914)"><tspan
+           id="tspan5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:129.81px;font-family:'Bauhaus 93';-inkscape-font-specification:'Bauhaus 93, ';fill:url(#linearGradient17);fill-opacity:1;stroke:url(#linearGradient4);stroke-width:10.6403;stroke-opacity:1"
+           x="193.75616"
+           y="-850.23096">Community</tspan></text>
+    </g>
+  </g>
+</svg>
